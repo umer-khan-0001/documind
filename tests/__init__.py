@@ -1,0 +1,3 @@
+"""
+DocuMind test suite initialization.
+"""
